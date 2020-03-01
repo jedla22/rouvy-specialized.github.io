@@ -1,0 +1,16 @@
+
+- name: ČP XCO Zadov
+  url: http://zadov.cz/mtb/index.html
+  cssid: project-cpxco
+
+- name: SportCamp Zadov
+  url: http://127.0.0.1:4000/sportcamp.html
+  cssid: project-sportcamp
+
+- name: Šumavský Pohár MTB
+  url: http://jcp-mtb.cz/
+  cssid: project-spmtb
+
+- name: Enduro Race Zadov
+  url: https://enduroserie.cz/zavody-enduro/detail/559
+  cssid: project-endurorace
