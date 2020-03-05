@@ -1,16 +1,16 @@
 
-- name: ČP XCO Zadov
-  url: http://zadov.cz/mtb/index.html
-  cssid: project-cpxco
+- name: Šumavský Skimaraton
+  url: http://www.skimaraton.cz/main.aspx?lng=cz
+  bg-image: /img/rouvy-camp.jpg
 
-- name: SportCamp Zadov
-  url: http://127.0.0.1:4000/sportcamp.html
-  cssid: project-sportcamp
+- name: Šumavský MTB Maraton
+  url: https://www.kolopro.cz/zavody/race-576-sumavsky-mtb-maraton-ceske-sporitelny
+  bg-image: /img/rouvy-camp.jpg
 
-- name: Šumavský Pohár MTB
-  url: http://jcp-mtb.cz/
-  cssid: project-spmtb
+- name: Vodnická brusle
+  url: http://skisumava.cz/akce.aspx?id=448
+  bg-image: /img/rouvy-camp.jpg
 
-- name: Enduro Race Zadov
+- name: 5x Vimperkem
   url: https://enduroserie.cz/zavody-enduro/detail/559
-  cssid: project-endurorace
+  bg-image: /img/rouvy-camp.jpg

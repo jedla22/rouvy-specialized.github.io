@@ -153,11 +153,23 @@ nav.navbar .nav-item a.lang-en
     background-image: url(/img/flag-en.png)
 }
 
+.section-gray
+{
+	background-color: #EAEAEA;
+	padding: 20px 0px;
+}
+
+.post
+{
+	background-color: white;
+	padding-top: 15px;
+}
+
 @media (min-width:768px)
 {
     #projects  div.col-md-6 {
-        padding-right: 5px;
-        padding-left: 5px;
+        padding-right: 2px;
+        padding-left: 2px;
     }
 }
 
@@ -173,30 +185,14 @@ nav.navbar .nav-item a.lang-en
     background-size: cover;
 }
 
-
-#projects  div#project-cpxco {
-    background-image: url(/img/cp-xco.png)
+#projects .row div.col-lg-6:nth-child(odd) {
+	padding-right: 5px;
 }
 
-#projects  div#project-sportcamp {
-    background-image: url(/img/sportcamp-zadov.jpg)
+#projects .row div.col-lg-6:nth-child(even) {
+	padding-left: 5px;
 }
 
-#projects  div#project-spmtb {
-    background-image: url(/img/spmtb.jpg)
-}
-
-#projects  div#project-endurorace {
-    background-image: url(/img/enduro-zadov.jpg)
-}
-
-#projects  div#project-rouvycamps {
-    background-image: url(/img/rouvy-camp.jpg)
-}
-
-#projects  div#project-rouvyrides {
-    background-image: url(/img/rouvy-ride.jpg)
-}
 
 #projects  div.row h4 {
     text-align: center;

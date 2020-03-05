@@ -3,65 +3,45 @@ staff:
 - name: "Jiří Lutovský"
   email: "lutak@bike-klub.cz"
   img: "/img/lutak.jpg"
-  content:
-    cs: "manažer týmu, šéf trenér"
-    en: "team manage, head coach"
+  content: "manažer týmu, šéf trenér"
 
 - name: "Vojtěch Huřík"
   email: "vhurik@seznam.c"
   img: "/img/vojta.jpg"
-  content:
-    cs: "team secretarian, coach"
-    en: "team manage, coach"
+  content: "manažer týmu, šéf trenér"
 
 - name: "Jan Jedlička"
   email: "jena.jedlicka@gmail.com"
   img: "/img/jedla.jpg"
-  content:
-    cs: "trenér mládeže, webmastet"
-    en: "kids coach, webmaster"
+  content:  "trenér mládeže, webmastet"
 
 - name: "Robert Jezl"
   email: "jena.jedlicka@gmail.com"
   img: "/img/robert.jpg"
-  content:
-    cs: "realizační tým"
-    en: "team staff"
+  content": "realizační tým"
 
 riders:
 
 - name: "Tereza Sásková"
   img: "/img/terka.jpg"
-  content:
-    cs: "Ženy U23"
-    en: "Women U23"
+  content: "Ženy U23"
 
 - name: "Miroslav Skála"
   img: "/img/mira.jpg"
-  content:
-    cs: "Muži U23"
-    en: "Men U23"
+  content: "Muži U23"
 
 - name: "Sam Jirouš"
   img: "/img/sam.jpg"
-  content:
-    cs: "Muži U23"
-    en: "Men U23"
+  content: "Muži U23"
 
 - name: "Oskar Mareká"
   img: "/img/oskar.jpg"
-  content:
-    cs: "Muži U23"
-    en: "Men U23"
+  content: "Muži U23"
 
 - name: "Zuzana Šafářová"
   img: "/img/zuzka.png"
-  content:
-    cs: "Ženy U23"
-    en: "Women U23"
+  content: "Ženy U23"
 
 - name: "Honza Saska"
   img: "/img/saska.jpg"
-  content:
-    cs: "Junioři"
-    en: "Junior men"
+  content: "Junioři"
