@@ -14,18 +14,30 @@
   url: http://www.dojacek.cz/
   cssid: partner-autodojacek
 
-- name: Nutrend
-  url: https://www.nutrend.cz/
-  cssid: partner-nutrend
-
-- name: Petr Čech Sport
-  url: https://petrcechsport.cz/"
-  cssid: partner-petrcechsport
+- name: ELITE
+  url: https://www.elite-it.com/
+  cssid: partner-elite
 
 - name: Lawi Sportswear
   url: https://lawi.cz/
   cssid: partner-lawi
 
-- name: Cyklostar
-  url: https://www.cyklostar.cz/
-  cssid: partner-cyklostar
+- name: TrainingPeaks 
+  url: https://www.trainingpeaks.com/
+  cssid: partner-trainingpeaks
+
+- name: GU
+  url: https://guenergy.com/
+  cssid: partner-gu
+
+- name: Finish Line
+  url: http://www.finishlineusa.com/
+  cssid: partner-finish-line
+
+- name: Jihočeský Kraj
+  url: https://www.kraj-jihocesky.cz/
+  cssid: partner-jihocesky-kraj
+
+- name: Nárdoní Sportovní Agentura
+  url: https://agenturasport.cz/
+  cssid: partner-nsa

@@ -1,7 +1,30 @@
+cs:
+
+# - name: Team
+#   url: /team/
+
+- name: SportCamp
+  url: /sportcamp.html
+
+- name: ČP XCO Zadov
+  url: http://zadov.cz/mtb/index.html
+
+- name: Šumavský Pohár
+  url: http://jcp-mtb.cz/
 
 - name: Team
-  url: /team
+  url: /team.html
 
+en:
 
-- name: Kontakt
-  url: /kontakt
+- name: Czech MTB CUP Zadov
+  url: http://zadov.cz/mtb/index-en.html
+
+- name: ROUVY Rides
+  url: https://rouvy.com/en/events
+
+- name: ROUVY Camps
+  url: https://camp.rouvy.com/
+
+- name: Team
+  url: /en/team.html
