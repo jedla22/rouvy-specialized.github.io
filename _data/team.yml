@@ -35,21 +35,9 @@ staff:
     en: "team staff"
 
 riders:
-
-- name: "Jan Vastl"
-  img: "/img/jan-vastl-profil.png"
-  content:
-    cs: "Muži Elite"
-    en: "Men Elite"
   
 - name: "Adéla Holubová"
   img: "/img/adela-holubova-profil.png"
-  content:
-    cs: "Ženy U23"
-    en: "Women U23"
-
-- name: "Zuzana Šafářová"
-  img: "/img/zuzana-safarova-profil.png"
   content:
     cs: "Ženy U23"
     en: "Women U23"
@@ -59,4 +47,16 @@ riders:
   content:
     cs: "Ženy U23"
     en: "Women U23"
+
+- name: "Kateřina Bayerová"
+  img: "/img/katerina-bayerova-profil.png"
+  content:
+    cs: "Juniorky"
+    en: "Junior Women"
+
+- name: "Marika Pulkrabová"
+  img: "/img/marika-pulkrabova-profil.png"
+  content:
+    cs: "Juniorky"
+    en: "Junior Women"
 
