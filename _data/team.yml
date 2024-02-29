@@ -60,3 +60,34 @@ riders:
     cs: "Juniorky"
     en: "Junior Women"
 
+- name: "Jakub Vlasatý"
+  img: "/img/jakub-vlasaty-profil.png"
+  content:
+    cs: "Ženy U23"
+    en: "Women U23"
+
+- name: "Patrik Pilař"
+  img: "/img/patrik-pilar-profil.png"
+  content:
+    cs: "Junior"
+    en: "Junior Men"
+
+- name: "Lucie Bořánková"
+  img: "/img/lucie-borankova-profil.png"
+  content:
+    cs: "Juniorka"
+    en: "Junior Women"
+
+- name: "Barbora Dvořáková"
+  img: "/img/barbora-dvorakova-profil.png"
+  content:
+    cs: "Juniorka"
+    en: "Junior Women"
+
+- name: "Nikola Záribnická"
+  img: "/img/nikola-zaribnicka-profil.png"
+  content:
+    cs: "Juniorka"
+    en: "Junior Women"
+
+
