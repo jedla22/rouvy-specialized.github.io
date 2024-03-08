@@ -100,27 +100,26 @@
 
         <div class="col-md-8" >
 
-            <div class="videoWrapper">
-                <iframe width="100%"  src="https://www.youtube.com/embed/AXks-lZxpdg?si=CPxSEve7EyaVtaRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-            <div id="news" class="mt-4">
-                <img class="img-fluid" src="/img/nela-viktorova.png" alt=" site.data.loc[page.lang].homepage-title">
-                {% if page.lang == "cs" %}
-                    <a href="season-2023-compressed.pdf" class="btn btn-primary btn-secondary btn-lg active" role="button" aria-pressed="true">{{ site.data.loc[page.lang].read-more }}</a>
-                {% else %}
-                    <a href="/season-2023-compressed.pdf" class="btn btn-primary btn-secondary btn-lg active" role="button" aria-pressed="true">{{ site.data.loc[page.lang].read-more }}</a> 
-                {% endif %}
+            <div id="news" class="mt-4 news">
+                <img class="img-fluid" src="/img/rouvy-specialized-2024.jpeg" alt=" site.data.loc[page.lang].homepage-content-title">
+                <a href="https://mtbs.cz/clanek/rouvy-specialized-2024/kategorie/tymy-a-kluby" class="btn btn-primary btn-secondary btn-lg active" role="button" aria-pressed="true">{{ site.data.loc[page.lang].read-more }}</a>
                 <p>
                     {{ site.data.loc[page.lang].homepage-article-contnet }}
                 </p>
-                {% if page.lang == "cs" %}
-                    <ul>
-                        <!-- <li><h5><a href="season-result.html">Hodnocení sezóny 2020</a></h5></li> -->
-                        <!-- <li><h5><a href="season-plan.html">Cíle sezóny 2021</a></h5></li>
-                        <li><h5><a href="grants.html">Podpora z granut Jihočeského kraje pro rok 2021</a></h5></li> -->
-                    </ul>
-                {% endif %}
             </div>
+            <div class="videoWrapper">
+                <iframe width="100%"  src="https://www.youtube.com/embed/AXks-lZxpdg?si=CPxSEve7EyaVtaRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+
+            <div  id="news" class="mt-4 news">
+                <img class="img-fluid" src="/img/nela-viktorova.png" alt=" site.data.loc[page.lang].homepage-content-title">
+                <a href="/season-2023-compressed.pdf" class="btn btn-primary btn-secondary btn-lg active" role="button" aria-pressed="true">{{ site.data.loc[page.lang].read-more }}</a>
+                <p>
+                    {{ site.data.loc[page.lang].homepage-article-contnet-2 }}
+                </p>
+            </div>
+           
+
         </div>
 
       <div class="col-md-4">

@@ -152,12 +152,13 @@ nav.bg-dark {
     margin-top: 5px;
 }
 
-.main-info  div#news 
+.main-info  div.news 
 {
     position: relative;
+    margin-top: 0px !important;
 }
 
-.main-info  div#news > p
+.main-info  div.news > p
 {
     //position: absolute;
 	padding: 20px;
@@ -173,18 +174,18 @@ nav.bg-dark {
     text-overflow: ellipsis;
 }
 
-.main-info  div#news > ul
+.main-info  div.news > ul
 {
 	padding-top: 20px;
 	padding-bottom: 20px;
 	background: rgb(249, 192, 2);
 }
 
-.main-info div#news > ul a{
+.main-info div.news > ul a{
 	color: black;
 }
 
-.main-info  div#news > a
+.main-info  div.news > a
 {
     position: absolute;
     top:20px;
