@@ -1,8 +1,8 @@
 cs:
 
-- name: ČP XCO Zadov
-  url: http://zadov.cz/mtb/index.html
-  cssid: project-cpxco
+# - name: ČP XCO Zadov
+#   url: http://zadov.cz/mtb/index.html
+#   cssid: project-cpxco
 
 - name: SportCamp Zadov
   url: /sportcamp.html
@@ -13,18 +13,18 @@ cs:
   cssid: project-spmtb
 
 - name: ROUVY Grand Prix
-  url: http://jcp-mtb.cz/
+  url: https://www.joycycling.cz/vimperk/#propozice
   cssid: project-rouvy-grand-prix
 
 
 en:
 
-- name: Czech MTB CUP Zadov
-  url: http://zadov.cz/mtb/index.html
-  cssid: project-cpxco
+# - name: Czech MTB CUP Zadov
+#   url: http://zadov.cz/mtb/index.html
+#   cssid: project-cpxco
 
 - name: ROUVY Grand Prix
-  url: http://jcp-mtb.cz/
+  url: https://www.joycycling.cz/en/vimperk/
   cssid: project-rouvy-grand-prix
 
 - name: ROUVY Rides

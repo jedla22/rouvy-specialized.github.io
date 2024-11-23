@@ -6,8 +6,8 @@ cs:
 - name: SportCamp
   url: /sportcamp.html
 
-- name: ČP XCO Zadov
-  url: http://zadov.cz/mtb/index.html
+# - name: ČP XCO Zadov
+#   url: http://zadov.cz/mtb/index.html
 
 - name: Šumavský Pohár
   url: http://jcp-mtb.cz/
