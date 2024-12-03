@@ -41,3 +41,7 @@
 - name: Nárdoní Sportovní Agentura
   url: https://agenturasport.cz/
   cssid: partner-nsa
+
+- name: Město Vimperk
+  url: https://www.vimperk.cz/
+  cssid: partner-mesto-vimperk

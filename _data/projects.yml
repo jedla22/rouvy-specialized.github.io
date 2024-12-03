@@ -16,6 +16,10 @@ cs:
   url: https://www.joycycling.cz/vimperk/#propozice
   cssid: project-rouvy-grand-prix
 
+- name: Trénuj s námi
+  url: /trenujsnami.html
+  cssid: project-trenuj-s-nami
+
 
 en:
 

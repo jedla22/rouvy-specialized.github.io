@@ -42,17 +42,17 @@ riders:
     cs: "Ženy U23"
     en: "Women U23"
 
-- name: "Nela Viktorová"
-  img: "/img/nela-viktorova-profil.png"
-  content:
-    cs: "Ženy U23"
-    en: "Women U23"
+# - name: "Nela Viktorová"
+#   img: "/img/nela-viktorova-profil.png"
+#   content:
+#     cs: "Ženy U23"
+#     en: "Women U23"
 
 - name: "Kateřina Bayerová"
   img: "/img/katerina-bayerova-profil.png"
   content:
-    cs: "Juniorky"
-    en: "Junior Women"
+    cs: "Ženy U23"
+    en: "Women U23"
 
 - name: "Marika Pulkrabová"
   img: "/img/marika-pulkrabova-profil.png"
@@ -63,8 +63,8 @@ riders:
 - name: "Jakub Vlasatý"
   img: "/img/jakub-vlasaty-profil.png"
   content:
-    cs: "Ženy U23"
-    en: "Women U23"
+    cs: "Muži U23"
+    en: "Men U23"
 
 - name: "Patrik Pilař"
   img: "/img/patrik-pilar-profil.png"
@@ -84,7 +84,7 @@ riders:
     cs: "Juniorka"
     en: "Junior Women"
 
-- name: "Nikola Záribnická"
+- name: "Nikola Zárybnická"
   img: "/img/nikola-zaribnicka-profil.png"
   content:
     cs: "Juniorka"
