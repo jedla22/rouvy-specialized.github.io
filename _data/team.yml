@@ -42,11 +42,6 @@ riders:
     cs: "Ženy U23"
     en: "Women U23"
 
-# - name: "Nela Viktorová"
-#   img: "/img/nela-viktorova-profil.png"
-#   content:
-#     cs: "Ženy U23"
-#     en: "Women U23"
 
 - name: "Kateřina Bayerová"
   img: "/img/katerina-bayerova-profil.png"
@@ -81,13 +76,33 @@ riders:
 - name: "Barbora Dvořáková"
   img: "/img/barbora-dvorakova-profil.png"
   content:
-    cs: "Juniorka"
-    en: "Junior Women"
+    cs: "Ženy U23"
+    en: "Women U23"
 
 - name: "Nikola Zárybnická"
   img: "/img/nikola-zaribnicka-profil.png"
   content:
-    cs: "Juniorka"
-    en: "Junior Women"
+    cs: "Ženy U23"
+    en: "Women U23"
+
+- name: "Vincent Jirouš"
+  img: "/img/vincent-jirous-profil.png"
+  content:
+    cs: "Kadet"
+    en: "U17 Men"
+  
+
+- name: "Matěj Novák"
+  img: "/img/matej-novak-profil.png"
+  content:
+    cs: "Kadet"
+    en: "U17 Men"
+
+- name: "Václav Růžička"
+  img: "/img/profile-placeholder.png"
+  content:
+    cs: "Kadet"
+    en: "U17 Men"
+
 
 
