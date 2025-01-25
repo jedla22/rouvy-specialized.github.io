@@ -39,8 +39,8 @@ riders:
 - name: "Adéla Holubová"
   img: "/img/adela-holubova-profil.png"
   content:
-    cs: "Ženy U23"
-    en: "Women U23"
+    cs: "Ženy Elite"
+    en: "Women Elite"
 
 
 - name: "Kateřina Bayerová"
@@ -52,8 +52,8 @@ riders:
 - name: "Marika Pulkrabová"
   img: "/img/marika-pulkrabova-profil.png"
   content:
-    cs: "Juniorky"
-    en: "Junior Women"
+    cs: "Ženy U23"
+    en: "Women U23"
 
 - name: "Jakub Vlasatý"
   img: "/img/jakub-vlasaty-profil.png"
@@ -64,8 +64,8 @@ riders:
 - name: "Patrik Pilař"
   img: "/img/patrik-pilar-profil.png"
   content:
-    cs: "Junior"
-    en: "Junior Men"
+    cs: "Muži U23"
+    en: "Men U23"
 
 - name: "Lucie Bořánková"
   img: "/img/lucie-borankova-profil.png"
