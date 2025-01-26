@@ -2,7 +2,7 @@ staff:
 
 - name: "Jiří Lutovský"
   email: "lutak@bike-klub.cz"
-  img: "/img/lutak.jpg"
+  img: "/img/lutak.png"
   content:
     cs: "manažer týmu, šéf trenér"
     en: "team manage, head coach"
@@ -41,7 +41,6 @@ riders:
   content:
     cs: "Ženy Elite"
     en: "Women Elite"
-
 
 - name: "Kateřina Bayerová"
   img: "/img/katerina-bayerova-profil.png"
@@ -91,7 +90,6 @@ riders:
     cs: "Kadet"
     en: "U17 Men"
   
-
 - name: "Matěj Novák"
   img: "/img/matej-novak-profil.png"
   content:
