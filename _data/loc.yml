@@ -3,9 +3,7 @@ cs:
   new-general-partner: "nový generální partner týmu"
   homepage-title:  "ROUVY Cycling Team"
   our-activities: "Organizujeme"
-
   homepage-article-contnet: "<strong>Do roku 2025 vstupuje tým ROUVY s  cílem zaměřit se na světový pohár a zároveň vytvářet podmínky pro děti a mládež a podporovat je v jejich růstu</strong>. Kompletní seriál světového poháru bude absolvovat olympionička Adéla Holubová , s cílem získat co nejvíce bodů a posunout se tak ve světovém žebříčku v elitní kategorii žen dopředu. Dlouhodobým cílem je samozřejmě další olympiáda v roce 2028 v Los Angeles.V evropských závodech by ji měly doplnit  Kateřina Beyerová a Marika Pulkrabová, které postoupily do kategorie U 23 . V juniorkách by pak měla patřit do české špičky Lucie Bořánková. I další závodníci z řad studentů sportovního gymnázia se budou prát o nejvyšší příčky na českých i mezinárodních závodech, ať už XCO nebo maraton a nebo i enduro. Staronovým členem týmu je Jaromír Skála, který by mimo závodů měl i předávat svoje zkušenosti mladým závodníkům. Z nejmladších kategorii postupně vyrůstají naděje , které by měli posílit kategorii kadetů a starších žáků.tým opět pořádá oblíbený sportovní kemp pro děti Sportcam 2025 kde očekáváme opět účast cca  80 dětí. <strong>V termínu 14. - 15.6 pak přivítá autokemp Vodník další ročník mezinárodního závodu ROUVY Velká cena Vimperka</strong>.<br /> <br /> Na zajištění chodu a financování činnosti celého klubu se podílí  finančními i materiálními prostředky sponzoři a partneři týmu , dále pak Národní sportovní agentura , Jihočeský kraj, Město Vimperk a nedílnou součástí jsou i příspěvky od jednotlivých členů."
-  homepage-article-contnet-2: "V sezóně 2024 dosáhl ROUVY Cycling Team  řady úspěchů. Mezi největší patří <strong>Olympijská účast Adély Holubové</strong>, nebo její umístění v TOP 10 v závodech světového poháru. Výborných výsledků dosáhla i Nela Viktorová závodící druhým rokem v kategorii žen do 23 let, nebo Kateřina Bayerová v kategorii Juniorek."
   youth-coach: "trenér mládeže"
   mechanic: "mechanik"
   team-staff: "realizační tým"
@@ -14,6 +12,8 @@ cs:
   czech-republic: "Česká Republika"
   supportteam: "Realizační tým"
   riders: "Závodníci"
+  granz-camp-title: "Kids MTB Grenzland Camp 2025"
+  granz-camp-content: "Společně s našimi přáteli z Bike klubu Vimperk z.s. (CZ) jsme minulý víkend poprvé uspořádali třídenní Kids MTB Grenzland Camp. Akce se naprosto vydařila! Obrázky mluví samy za sebe..."
 
 en:
   read-more: "Read more"
@@ -22,8 +22,6 @@ en:
   our-activities: "Our activities"
   homepage-content-title: "ROUVY Cycling team 2024"
   homepage-article-contnet: "<strong>In 2025, the ROUVY team enters the year with the goal of focusing on the World Cup while also creating conditions for children and youth, supporting them in their growth</strong>. The complete World Cup series will be attended by Olympian Adéla Holubová, aiming to collect as many points as possible and thus move forward in the world ranking in the elite women's category. The long-term goal is, of course, another Olympics in 2028 in Los Angeles. In European races, she is expected to be joined by Kateřina Beyerová and Marika Pulkrabová, who have advanced to the U23 category. Among juniors, Lucie Bořánková is expected to be among the top Czech competitors. Other athletes from the ranks of students at the sports high school will also compete for top positions in Czech and international races, whether in XCO, marathon, or even enduro. A returning team member is Jaromír Skála, who, in addition to competing, will also pass on his experience to young racers. From the youngest categories, new hopefuls are gradually emerging who are expected to strengthen the cadet and older pupil categories. The team is once again organizing the popular children's sports camp, Sportcam 2025, where we expect around 80 children to participate again. <strong>On June 14-15, the Vodník campsite in Vimperk will host another edition of the international race, the ROUVY Grand Prix </strong>.<br /> <br /> The operation and financing of the entire club are supported by financial and material contributions from sponsors and partners of the team, as well as by the National Sports Agency, the South Bohemian Region, the City of Vimperk, and individual membership contributions, which are an integral part of the funding.</html>"
-  homepage-article-contnet-2:  "In the 2024 season, the <strong>ROUVY Cycling Team </strong> achieved a number of great results. The highlights of the season is <strong> Olympics journey of Adéla Holubová</strong>, or her result in the <strong>TOP 10 in world cup races.</strong>. Excellent results were also achieved by Nela Viktorová competing for the second year in the category of women under 23, or Kateřina Bayerová in Junior Women catgory."
-  contact: "Kontakt"
   contact: "Contact"
   mechanic: "mecahnic"
   team-staff: "team staff"
@@ -32,3 +30,5 @@ en:
   czech-republic: "Czech Republic"
   supportteam: "Support team"
   riders: "Riders"
+  granz-camp-title: "Kids MTB Grenzland Camp 2025"
+  granz-camp-content: "Together with our friends from Bike Club Vimperk z.s. (CZ) we organized the three-day Kids MTB Grenzland Camp for the first time last weekend. The event was a complete success! The pictures speak for themselves..."
