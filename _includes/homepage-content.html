@@ -100,28 +100,34 @@
     
          <div class="col-md-8" >
 
-            <div id="news" class="mt-4 news">
-                 <img class="img-fluid" src="/img/kids-camp.jpeg" alt=" site.data.loc[page.lang].homepage-title">
-                {% if page.lang == "cs" %}
-                    <a href="https://www.bikearena-wegscheid.de/kidsmtbgrenzlandcamp" class="btn btn-primary btn-secondary btn-lg active" role="button" aria-pressed="true">{{ site.data.loc[page.lang].read-more }}</a>
+             <div id="news" class="mt-4 news mb-2" >
+                 <img class="img-fluid" src="/img/lipno-camp-news.jpg" alt="site.data.loc[page.lang].homepage-title">
+                 {% if page.lang == "cs" %}
+                    <a href="KidsInterregCampLipno.pdf" class="btn btn-primary btn-secondary btn-lg active" role="button" aria-pressed="true">{{ site.data.loc[page.lang].read-more }}</a>
                 {% else %}
-                    <a href="https://www.bikearena-wegscheid.de/kidsmtbgrenzlandcamp" class="btn btn-primary btn-secondary btn-lg active" role="button" aria-pressed="true">{{ site.data.loc[page.lang].read-more }}</a> 
+                    <a href="/KidsInterregCampLipnoEN.pdf" class="btn btn-primary btn-secondary btn-lg active" role="button" aria-pressed="true">{{ site.data.loc[page.lang].read-more }}</a> 
                 {% endif %}
-                <p>
+            
+                <p class="pb-2">
+                    {{ site.data.loc[page.lang].granz-camp-lipno-content }}
+                </p>
+                
+                               
+            </div>
+
+            <div id="news" class="mt-4 news mb-2">
+                 <img class="img-fluid" src="/img/kids-camp.jpeg" alt=" site.data.loc[page.lang].homepage-title">
+                <a href="https://www.bikearena-wegscheid.de/kidsmtbgrenzlandcamp" class="btn btn-primary btn-secondary btn-lg active" role="button" aria-pressed="true">{{ site.data.loc[page.lang].read-more }}</a>
+
+                <p class="pb-2">
                     {{ site.data.loc[page.lang].granz-camp-content }}
                 </p>
-                {% if page.lang == "cs" %}
-                    <ul>
-                        <!-- <li><h5><a href="season-result.html">Hodnocení sezóny 2020</a></h5></li> -->
-                        <!-- <li><h5><a href="season-plan.html">Cíle sezóny 2021</a></h5></li>
-                        <li><h5><a href="grants.html">Podpora z granut Jihočeského kraje pro rok 2021</a></h5></li> -->
-                    </ul>
-                {% endif %}
+               
 
                 
             </div>
 
-             <div id="news" class="mt-4 news">
+             <div id="news" class="mt-4 news mb-2">
                 <img class="img-fluid" src="/img/nela-viktorova.png" alt=" site.data.loc[page.lang].homepage-title">
                 {% if page.lang == "cs" %}
                     <a href="season-2023-compressed.pdf" class="btn btn-primary btn-secondary btn-lg active" role="button" aria-pressed="true">{{ site.data.loc[page.lang].read-more }}</a>
